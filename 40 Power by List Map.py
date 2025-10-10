@@ -1,0 +1,5 @@
+string = input("Enter Elements (space-separated): ")
+lis = string.split()  
+expo=int(input("Enter the power: "))
+power = list(map(lambda x: int(x)**expo, lis))
+print(string ,'to the power of',expo,'is' ,power)
