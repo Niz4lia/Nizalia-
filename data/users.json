@@ -1,0 +1,39 @@
+{
+    "admin": {
+        "username": "admin",
+        "password": "admin123",
+        "role": "Admin"
+    },
+    "level_heads": [
+        {
+            "username": "head_lower",
+            "password": "head123",
+            "role": "LevelHead",
+            "range": "6-8"
+        },
+        {
+            "username": "head_upper",
+            "password": "head123",
+            "role": "LevelHead",
+            "range": "9-12"
+        }
+    ],
+    "teachers": [
+        {
+            "username": "ali",
+            "password": "teach123",
+            "role": "Teacher",
+            "class": "10A",
+            "subject": "English"
+        }
+    ],
+    "parents": [
+        {
+            "username": "mrs_khan",
+            "password": "parent123",
+            "role": "Parent",
+            "child": "Sara Khan",
+            "class": "10A"
+        }
+    ]
+}

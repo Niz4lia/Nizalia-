@@ -1,0 +1,21 @@
+{
+    "model_answer": "Anything that occupies space and has some mass is called matter.",
+    "student_answer": "Anything which occupies spacea nd has volume,mass is known as matter.",
+    "marks": 99.0,
+    "approved": true,
+    "recheck_requested": false,
+    "mark_history": [
+        "66.18 (15:06:00)"
+    ],
+    "niz": {
+        "student_answer": "That was the answer.",
+        "marks": 55.38,
+        "approved": false,
+        "recheck_requested": false,
+        "mark_history": [
+            "64.95 (15:16:03)",
+            "55.38 (14:08:24)"
+        ],
+        "model_answer": "This is an answer."
+    }
+}

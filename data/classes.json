@@ -1,0 +1,12 @@
+{
+    "10A": {
+        "subjects": {
+            "English": {
+                "teacher": "ali"
+            }
+        },
+        "students": [
+            "Sara Khan"
+        ]
+    }
+}

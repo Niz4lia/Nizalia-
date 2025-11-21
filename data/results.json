@@ -1,0 +1,13 @@
+{
+    "10A_English_Sara Khan": {
+        "class": "10A",
+        "subject": "English",
+        "teacher": "ali",
+        "student": "Sara Khan",
+        "marks": 74,
+        "percentage": 73.85,
+        "grade": "B",
+        "approved": true,
+        "recheck": false
+    }
+}
