@@ -1,0 +1,6 @@
+fruits = ("Apples", "Bananas", "Oranges", "Grapes", "Bananas")
+print(fruits)
+index=fruits.index("Bananas")
+print(f"The first occurence of banana is: {index}")
+countb=fruits.count("Bananas")
+print(f'The no. of times banana is repeated is: {countb}')

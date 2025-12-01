@@ -1,11 +1,10 @@
 {
-    "10A_English_Sara Khan": {
+    "Sara Khan": {
         "class": "10A",
         "subject": "English",
-        "teacher": "ali",
-        "student": "Sara Khan",
-        "marks": 74,
-        "percentage": 73.85,
+        "reference": "Photosynthesis is the process by which plants make food using sunlight.",
+        "answer": "Photosynthesis helps plants make food with sunlight energy.",
+        "marks": 73.85,
         "grade": "B",
         "approved": true,
         "recheck": false

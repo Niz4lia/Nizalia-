@@ -1,39 +1,19 @@
 {
     "admin": {
-        "username": "admin",
-        "password": "admin123",
-        "role": "Admin"
+        "role": "Admin",
+        "password": "admin123"
     },
-    "level_heads": [
-        {
-            "username": "head_lower",
-            "password": "head123",
-            "role": "LevelHead",
-            "range": "6-8"
-        },
-        {
-            "username": "head_upper",
-            "password": "head123",
-            "role": "LevelHead",
-            "range": "9-12"
-        }
-    ],
-    "teachers": [
-        {
-            "username": "ali",
-            "password": "teach123",
-            "role": "Teacher",
-            "class": "10A",
-            "subject": "English"
-        }
-    ],
-    "parents": [
-        {
-            "username": "mrs_khan",
-            "password": "parent123",
-            "role": "Parent",
-            "child": "Sara Khan",
-            "class": "10A"
-        }
-    ]
+    "head_upper": {
+        "role": "LevelHead",
+        "password": "head123"
+    },
+    "ali": {
+        "role": "Teacher",
+        "password": "teach123"
+    },
+    "mrs_khan": {
+        "role": "Parent",
+        "password": "parent123",
+        "child": "Sara Khan"
+    }
 }

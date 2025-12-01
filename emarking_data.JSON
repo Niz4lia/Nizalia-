@@ -1,0 +1,35 @@
+{
+    "users": {
+        "admin": {
+            "role": "Admin",
+            "password": "admin123"
+        },
+        "ali": {
+            "role": "Teacher",
+            "password": "teach123",
+            "class": "10A"
+        },
+        "mrs_khan": {
+            "role": "Parent",
+            "password": "parent123",
+            "child": "Sara Khan"
+        },
+        "head_upper": {
+            "role": "LevelHead",
+            "password": "head123",
+            "level": "9-12"
+        }
+    },
+    "students": {
+        "Sara Khan": {
+            "class": "10A",
+            "subject": "English",
+            "reference": "Photosynthesis is the process by which green plants make food using sunlight.",
+            "answer": "Photosynthesis helps plants create food with sunlight.",
+            "marks": 0.0,
+            "grade": "F",
+            "approved": false,
+            "recheck": false
+        }
+    }
+}

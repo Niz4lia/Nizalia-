@@ -1,0 +1,10 @@
+fruits = ()
+while len(fruits) < 5:
+    fruits =fruits+ (input("Enter a fruit name: "),)
+print("Current inventory:", fruits)
+remove = input("Enter the fruit to remove: ")
+flist = list(fruits)
+flist.remove(remove)
+new = input("Enter the new fruit to add: ")
+fruits =fruits+ (new,)
+print("Updated inventory:", fruits)
